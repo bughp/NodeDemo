@@ -1,0 +1,28 @@
+{
+	"connected": false,
+	"ready": false,
+	"command_queue": [],
+	"subscription_set": {},
+	"server_info": {},
+    "times_connected": 0,
+	"reply_parser": {
+		"offset": 0,
+	},
+	"stream": {
+		"connecting": true,
+		"_handle": {
+			"reading": false,
+		},
+		"_readableState": {
+			"reading": false,
+			"sync": true,
+			"needReadable": false,
+			"resumeScheduled": true,
+		},
+		"_eventsCount": 7,
+		"_writableState": {
+			"sync": true,
+			"pendingcb": 0,
+		},
+	}
+}
